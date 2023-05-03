@@ -1,0 +1,39 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    background-color: #222;
+    color: #eee;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.car {
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.car h2 {
+    margin-bottom: 10px;
+
+}
+
+.car img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.car .model {
+    font-weight: bold;
+    color: #d1ad40;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.car .model:hover {
+    color: #694b09;
+}
